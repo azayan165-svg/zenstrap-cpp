@@ -13,9 +13,9 @@ A simple and fast tool for managing Roblox Fast Flags (FFlags) on the PC client.
 
 ## Usage
 
-1.  Place `odessa.exe` and your `fflags.json` file in the same folder.
+1.  Place `zenstrap.exe` and your `fflags.json` file in the same folder.
 2.  Launch Roblox.
-3.  Run `odessa.exe`. The program will find the Roblox process, apply the FFlags from your JSON file, and report its progress.
+3.  Run `zenstrap.exe`. The program will find the Roblox process, apply the FFlags from your JSON file, and report its progress.
 
 ### Example `fflags.json`
 
