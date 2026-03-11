@@ -1,0 +1,10 @@
+Fri Feb 27 20:28:21 2026
+: Program started
+Fri Feb 27 20:28:21 2026
+: Header printed
+Fri Feb 27 20:28:21 2026
+: Memory object created
+Fri Feb 27 20:28:21 2026
+: FFlag system created, singleton: 1965118834816
+Fri Feb 27 20:28:21 2026
+: ERROR: No flags loaded
